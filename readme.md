@@ -1,1 +1,5 @@
-# js.util.as
+# ![logo](logo/js-util-as-logo.png)
+
+# License
+
+[MIT](https://opensource.org/licenses/MIT) @ Richard King
